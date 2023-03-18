@@ -59,7 +59,7 @@ document.querySelector('.check').addEventListener('click', function(){
             document.querySelector('.score').textContent = score;
         }
         else {
-            document.querySelector('.score').textContent = 'You lost 😭';
+            document.querySelector('.score').textContent = 'Nee thottu 😭';
             document.querySelector('.message').textContent = 'You DIPSH*T 😡';
         }
     }
